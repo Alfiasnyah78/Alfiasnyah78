@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Alfiasnyah78&theme=transparent" alt="GitHub Streak"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Alfiasnyah78)](https://git.io/streak-stats)
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Alfiasnyah78&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
